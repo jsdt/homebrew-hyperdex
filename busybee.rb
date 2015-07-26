@@ -2,8 +2,7 @@ require 'formula'
 
 class Busybee < Formula
   homepage 'http://hyperdex.org'
-  url 'http://hyperdex.org/src/busybee-0.5.2.tar.gz'
-  sha1 'e50b4a679791195f079e775ca06bf728711d0d72'
+  url 'http://hyperdex.org/src/busybee-0.7.0.tar.gz'
 
   depends_on 'autoconf'
   depends_on 'automake'
